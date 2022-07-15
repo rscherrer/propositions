@@ -5,3 +5,4 @@ List of putative PhD propositions:
 * "Life, Uh, Finds a Way" --- Dr. Ian Malcolm (Jeff Goldblum), Jurassic Park (Steven Spielberg, 1993)
 * Models are extended intuitions
 * One critical part of the job of a scientist is to recognize when they don't know (in contrast to pseudoscience, cults, etc.)
+* "Keep an open mind – but not so open that your brain falls out" (attributed to Walter Kotschnig)
