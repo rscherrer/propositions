@@ -8,3 +8,4 @@ List of putative PhD propositions:
 * "Keep an open mind – but not so open that your brain falls out" (attributed to Walter Kotschnig)
 * The theory of evolution still lacks the predictive power that a good theory, in theory, should have. Not that it invalidates it, it's just that the nut hasn't been fully cracked yet.
 * There are two ends on the modeling spectrum in ecology and evolution: on the one end, models that tell us what is plausible, and on the other, models that tell us what is likely.
+* "Perfect is the enemy of the good." Voltaire
