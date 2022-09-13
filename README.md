@@ -11,3 +11,4 @@ List of putative PhD propositions:
 * "Perfect is the enemy of the good." Voltaire
 * Making a model is easy, making a model that teaches you something you did not already know is a whole different beast.
 * Showing that a model with some properties produces a certain pattern is not the same as showing that the properties cause the pattern.
+* Some things are just not worth modeling. G. S. van Doorn
