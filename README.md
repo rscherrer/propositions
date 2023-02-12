@@ -13,3 +13,4 @@ List of putative PhD propositions:
 * Showing that a model with some properties produces a certain pattern is not the same as showing that the properties cause the pattern.
 * Some things are just not worth modeling. G. S. van Doorn
 * Making a model is not about testing facts, it is about testing our own intuition
+* Complex systems are doomed to be using simple math. Simple systems, in contrast, have the luxury of being able to use complicated math.
