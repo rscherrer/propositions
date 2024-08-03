@@ -14,3 +14,5 @@ List of putative PhD propositions:
 * Some things are just not worth modeling. G. S. van Doorn
 * Making a model is not about testing facts, it is about testing our own intuition
 * Complex systems are doomed to be using simple math. Simple systems, in contrast, have the luxury of being able to use complicated math.
+* It's crazy how throughout history it's always the good guys who win. Mark van Zomeren, 2024
+* Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. Marie Curie 
