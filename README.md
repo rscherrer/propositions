@@ -16,3 +16,4 @@ List of putative PhD propositions:
 * Complex systems are doomed to be using simple math. Simple systems, in contrast, have the luxury of being able to use complicated math.
 * It's crazy how throughout history it's always the good guys who win. Mark van Zomeren, 2024
 * Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. Marie Curie 
+* Deadlines aren't made to be respected. Amandine 2024
