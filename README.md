@@ -17,3 +17,5 @@ List of putative PhD propositions:
 * It's crazy how throughout history it's always the good guys who win. Mark van Zomeren, 2024
 * Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. Marie Curie 
 * Deadlines aren't made to be respected. Amandine 2024
+* "'But all them things exist,' said Nanny Ogg. 'That's no call go to around believing in them. It only encourages 'em.' Granny Weatherwax, in Terry Pratchett's Lords and Ladies
+* "Science is not about building a body of facts. It is a method for asking awkward questions and subjecting them to a reality-check, thus avoiding the human tendency to believe whatever makes them feel good." Terry Pratchett, The Science of Discworld
