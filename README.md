@@ -4,6 +4,7 @@ List of putative PhD propositions:
 
 * "Life, Uh, Finds a Way" --- Dr. Ian Malcolm (Jeff Goldblum), Jurassic Park (Steven Spielberg, 1993)
 * Models are extended intuitions
+* Nothing makes sense except in the light. Christoph Netz
 * A big part of the job of a scientist is to say when they don't know (which makes it different from most belief systems)
 * "Keep an open mind – but not so open that your brain falls out" (attributed to Walter Kotschnig)
 * The theory of evolution still lacks the predictive power that a good theory, in theory, should have. Not that it invalidates it, it's just that the nut hasn't been fully cracked yet.
