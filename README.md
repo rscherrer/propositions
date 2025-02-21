@@ -21,3 +21,5 @@ List of putative PhD propositions:
 * "'But all them things exist,' said Nanny Ogg. 'That's no call go to around believing in them. It only encourages 'em.' Granny Weatherwax, in Terry Pratchett's Lords and Ladies
 * "Science is not about building a body of facts. It is a method for asking awkward questions and subjecting them to a reality-check, thus avoiding the human tendency to believe whatever makes them feel good." Terry Pratchett, The Science of Discworld
 * You know what scientist say a lot? "I don't know" - Stephen Fry
+* I am against religion because it teaches us to be satisfied with not understanding the world. Richard Dawkins (check)
+* Religion is about turning untested belief into unshakable truth through the power of institutions and the passage of time. Richard Dawkins (check)
