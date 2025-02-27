@@ -23,3 +23,9 @@ List of putative PhD propositions:
 * You know what scientist say a lot? "I don't know" - Stephen Fry
 * I am against religion because it teaches us to be satisfied with not understanding the world. Richard Dawkins (check)
 * Religion is about turning untested belief into unshakable truth through the power of institutions and the passage of time. Richard Dawkins (check)
+* In research, to find is to show traces, not to invent proofs. Maurice Blanchot (check context)
+* Science is magic that works (find the author in sgu)
+* Reality does not care about your feelings (or sth like that)
+* Once you have eliminated the impossible, whatever is left, no matter how improbable, must be the truth --- Holmes
+* Time is a motherfucker --- 3 body problem 
+* Mornings are for coffee and contemplation --- chief in episode 1 os stranger things
