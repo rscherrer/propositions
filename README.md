@@ -29,3 +29,5 @@ List of putative PhD propositions:
 * Once you have eliminated the impossible, whatever is left, no matter how improbable, must be the truth --- Holmes
 * Time is a motherfucker --- 3 body problem 
 * Mornings are for coffee and contemplation --- chief in episode 1 os stranger things
+* Evolutionary biology is the science of the why not more than of the why (me)
+* A good talk teaches you, changes you, inspires you. Pim Edelaar (quoting someone?)
