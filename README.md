@@ -2,6 +2,8 @@
 
 List of putative PhD propositions:
 
+* This my movie. This my life. Okay, be cool. Tommy Wiseau (James Franco, The Disaster Artist, 2017)
+* If a lot of people love each other, the world would be a better place to live. Johnny (The Room, 2003)
 * "Life, Uh, Finds a Way" --- Dr. Ian Malcolm (Jeff Goldblum), Jurassic Park (Steven Spielberg, 1993)
 * Models are extended intuitions
 * Nothing makes sense except in the light. Christoph Netz
