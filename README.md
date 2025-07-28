@@ -2,6 +2,7 @@
 
 List of putative PhD propositions:
 
+* Knowing science does not protect against falling for pseudo-science. Steven Novella, SGU #1046, 2025
 * This my movie. This my life. Okay, be cool. Tommy Wiseau (James Franco, The Disaster Artist, 2017)
 * If a lot of people love each other, the world would be a better place to live. Johnny (The Room, 2003)
 * "Life, Uh, Finds a Way" --- Dr. Ian Malcolm (Jeff Goldblum), Jurassic Park (Steven Spielberg, 1993)
