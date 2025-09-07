@@ -2,6 +2,7 @@
 
 List of putative PhD propositions:
 
+* Playing with LaTeX, R or C++ is time better spent than writing an introduction (R.S.Etienne 2025)
 * More research is needed.
 * One of the most statisfying things in life is to write the Methods section of a paper.
 * Knowing science does not protect against falling for pseudo-science. Steven Novella, SGU #1046, 2025
