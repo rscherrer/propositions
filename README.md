@@ -2,6 +2,7 @@
 
 List of putative PhD propositions:
 
+* More research is needed.
 * One of the most statisfying things in life is to write the Methods section of a paper.
 * Knowing science does not protect against falling for pseudo-science. Steven Novella, SGU #1046, 2025
 * This my movie. This my life. Okay, be cool. Tommy Wiseau (James Franco, The Disaster Artist, 2017)
