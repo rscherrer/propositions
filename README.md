@@ -2,6 +2,7 @@
 
 List of putative PhD propositions:
 
+* Honest controversy is the fuel for improvement. Etienne Pierrot at Medium (2022) https://medium.com/checkout-com-techblog/scientific-methodology-test-driven-development-2570250dc1ae
 * Playing with LaTeX, R or C++ is time better spent than writing an introduction (R.S.Etienne 2025)
 * More research is needed.
 * One of the most statisfying things in life is to write the Methods section of a paper.
