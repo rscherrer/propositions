@@ -2,6 +2,10 @@
 
 List of putative PhD propositions:
 
+* Don't believe everything you see on the Internet (Abraham Lincoln)
+* A model should be as simple as possible but not simpler (Einstein?)
+* Just because something is complicated does not mean it is complex (Sander)
+* With great computational power comes great transparency and bookkeeping responsibility
 * Honest controversy is the fuel for improvement. Etienne Pierrot at Medium (2022) https://medium.com/checkout-com-techblog/scientific-methodology-test-driven-development-2570250dc1ae
 * Playing with LaTeX, R or C++ is time better spent than writing an introduction (R.S.Etienne 2025)
 * More research is needed.
