@@ -2,6 +2,8 @@
 
 List of putative PhD propositions:
 
+* All models are wrong and most are not even useful. (Yagmur Erten, 2025)
+* Nothing makes sense in biology, even in the light of evolution. Except the species concept, that one is real. (Yagmur Erten, 2025)
 * Some models are wrong, and some are particularly annoying.
 * Cooking takes so much time, even for the shittiest meal (Julia Hagauer)
 * Don't believe everything you see on the Internet (Abraham Lincoln)
