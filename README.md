@@ -2,6 +2,7 @@
 
 List of putative PhD propositions:
 
+* Some models are wrong, and some are particularly annoying.
 * Cooking takes so much time, even for the shittiest meal (Julia Hagauer)
 * Don't believe everything you see on the Internet (Abraham Lincoln)
 * A model should be as simple as possible but not simpler (Einstein?)
