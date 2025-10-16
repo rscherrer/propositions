@@ -2,6 +2,7 @@
 
 List of putative PhD propositions:
 
+* Scientists are made to hurry and run fast in the same direction. This would make sense if we collectively knew where we are going, but in research that is usually not the case. Christoph Netz (PhD thesis)
 * All models are wrong and most are not even useful. (Yagmur Erten, 2025)
 * Nothing makes sense in biology, even in the light of evolution. Except the species concept, that one is real. (Yagmur Erten, 2025)
 * Some models are wrong, and some are particularly annoying.
