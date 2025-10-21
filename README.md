@@ -2,6 +2,8 @@
 
 List of putative PhD propositions:
 
+* A hypothesis is important if it explains much by little, that is, if it abstracts the common and crucial elements from the mass of complex and detailed circumstances surrounding the phenomena to be explained and permits valid predictions on the basis of them alone (Friedman 1953)
+* The more significant the theory, the more unrealistic the assumptions (Friedman 1953)
 * Scientists are made to hurry and run fast in the same direction. This would make sense if we collectively knew where we are going, but in research that is usually not the case. Christoph Netz (PhD thesis)
 * All models are wrong and most are not even useful. (Yagmur Erten, 2025)
 * Nothing makes sense in biology, even in the light of evolution. Except the species concept, that one is real. (Yagmur Erten, 2025)
