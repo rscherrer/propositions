@@ -2,6 +2,7 @@
 
 List of putative PhD propositions:
 
+* Think first, then do.
 * Any time is a good time to doubt about one's model. Jana Riederer (2025)
 * A hypothesis is important if it explains much by little, that is, if it abstracts the common and crucial elements from the mass of complex and detailed circumstances surrounding the phenomena to be explained and permits valid predictions on the basis of them alone (Friedman 1953)
 * The more significant the theory, the more unrealistic the assumptions (Friedman 1953)
