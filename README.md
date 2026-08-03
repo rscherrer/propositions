@@ -2,6 +2,7 @@
 
 List of putative PhD propositions:
 
+* Microbes = everywhere a lot (Sarah Henaut-Jacobs, 2026)
 * Your academic career is basically your own start-up. (Yagmur Erten, 2025)
 * Think first, then do.
 * Any time is a good time to doubt about one's model. Jana Riederer (2025)
