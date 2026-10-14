@@ -2,6 +2,7 @@
 
 List of putative PhD propositions:
 
+* With a white-board and a blank R script we can take on the world/any dataset (Jana Riederer's thesis, 2026)
 * Microbes = everywhere a lot (Sarah Henaut-Jacobs, 2026)
 * Your academic career is basically your own start-up. (Yagmur Erten, 2025)
 * Think first, then do.
